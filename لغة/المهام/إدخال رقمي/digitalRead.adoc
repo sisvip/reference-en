@@ -23,7 +23,7 @@ Reads the value from a specified digital pin, either `HIGH` or `LOW`.
 
 [float]
 === Syntax
-`digitalRead(pin)`
+`DIGITAL RRAD (PIN)`
 
 
 [float]
